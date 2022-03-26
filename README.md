@@ -23,11 +23,10 @@ To complete the analysis of Outcomes Based on Launch Date the following steps we
   * The row labels were the months of January through December.
   * The column labels were "successful," "failed," and "canceled."
   * The parent category was filtered for "theater."
-
-![Theater Outcomes Based on Lauch Date]("C:\Users\tgeis\OneDrive\Desktop\Class Folder\Crowdfunding Project\Resources\Theater_Outcomes_vs_Launch.png")
-The campaign outcomes were sorted in descending order.
+  * The campaign outcomes were sorted in descending order.
+  
 A line chart was created from the pivot table labeled Theater Outcomes Based on Launch Date.
-
+![image](https://user-images.githubusercontent.com/100876517/160254715-951c2d49-e2fa-4baa-be32-62d1c142c74c.png)
 
 This chart was saved as a .png file and is part of the resources folder.
 
