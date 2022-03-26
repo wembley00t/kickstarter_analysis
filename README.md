@@ -14,7 +14,7 @@ and funding goals.
 
 ### Analysis of Outcomes Based on Launch Date
 
-To complete the analysis of Outcomes Based on Launch Date the following steps were performed:
+To complete the analysis of Outcomes Based on Launch Date, the following steps were performed:
 
   * In the Kickstarter worksheet, a new column labeled "Years" was added.
   * Using the Year() function, the year was extracted from the "Date Created Conversion Column."
@@ -25,7 +25,7 @@ To complete the analysis of Outcomes Based on Launch Date the following steps we
    ![image](https://user-images.githubusercontent.com/100876517/160254948-e34212d4-d1f6-4a9a-a13a-32c629c70e84.png)
   * The parent category was filtered for "theater."
   * The campaign outcomes were sorted in descending order.
-  
+  ![image](https://user-images.githubusercontent.com/100876517/160255018-946f93cc-41d5-4962-970b-746e0875c118.png)
   
 A line chart was created from the pivot table labeled Theater Outcomes Based on Launch Date.
 ![image](https://user-images.githubusercontent.com/100876517/160254715-951c2d49-e2fa-4baa-be32-62d1c142c74c.png)
@@ -34,6 +34,21 @@ This chart was saved as a .png file and is part of the resources folder.
 
 
 ### Analysis of Outcomes Based on Goals
+
+To complete the analysis of Outcomes Based on Goals, the following steps were performed:
+
+  * A new worksheet labeled "Outcomes Based on Goals" was created.
+  * The new worksheet contains eight columns and twelve rows with the below information
+  * 
+  * A new pivot table based on the Kickstarter data was placed in the new worksheet, "Theater Outcomes by Launch Date."
+  * The pivot table was filtered based on "Parent Category" and "Years."
+  * The row labels were the months of January through December.
+  * The column labels were "successful," "failed," and "canceled."
+   ![image](https://user-images.githubusercontent.com/100876517/160254948-e34212d4-d1f6-4a9a-a13a-32c629c70e84.png)
+  * The parent category was filtered for "theater."
+  * The campaign outcomes were sorted in descending order.
+  ![image](https://user-images.githubusercontent.com/100876517/160255018-946f93cc-41d5-4962-970b-746e0875c118.png)
+
 
 ### Challenges and Difficulties Encountered
 
