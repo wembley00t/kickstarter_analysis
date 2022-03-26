@@ -51,15 +51,16 @@ To complete the analysis of Outcomes Based on Goals, the following steps were pe
 
       Rows
       
+     ![image](https://user-images.githubusercontent.com/100876517/160255319-2509b569-205d-41e1-81c5-58de84d35494.png) 
       
   * A new pivot table based on the Kickstarter data was placed in the new worksheet, "Theater Outcomes by Launch Date."
   * The pivot table was filtered based on "Parent Category" and "Years."
   * The row labels were the months of January through December.
   * The column labels were "successful," "failed," and "canceled."
-   ![image](https://user-images.githubusercontent.com/100876517/160254948-e34212d4-d1f6-4a9a-a13a-32c629c70e84.png)
+  
   * The parent category was filtered for "theater."
   * The campaign outcomes were sorted in descending order.
-  ![image](https://user-images.githubusercontent.com/100876517/160255018-946f93cc-41d5-4962-970b-746e0875c118.png)
+ 
 
 
 ### Challenges and Difficulties Encountered
