@@ -22,8 +22,10 @@ To complete the analysis of Outcomes Based on Launch Date the following steps we
   * The pivot table was filtered based on "Parent Category" and "Years."
   * The row labels were the months of January through December.
   * The column labels were "successful," "failed," and "canceled."
+   ![image](https://user-images.githubusercontent.com/100876517/160254948-e34212d4-d1f6-4a9a-a13a-32c629c70e84.png)
   * The parent category was filtered for "theater."
   * The campaign outcomes were sorted in descending order.
+  
   
 A line chart was created from the pivot table labeled Theater Outcomes Based on Launch Date.
 ![image](https://user-images.githubusercontent.com/100876517/160254715-951c2d49-e2fa-4baa-be32-62d1c142c74c.png)
