@@ -39,7 +39,19 @@ To complete the analysis of Outcomes Based on Goals, the following steps were pe
 
   * A new worksheet labeled "Outcomes Based on Goals" was created.
   * The new worksheet contains eight columns and twelve rows with the below information
-  * 
+  
+      Columns
+      * Goal
+      * Number Successful
+      * Number Failed
+      * Number Canceled
+      * Total Projects
+      * Percentage Successful
+      * Percentage Failed
+
+      Rows
+      
+      
   * A new pivot table based on the Kickstarter data was placed in the new worksheet, "Theater Outcomes by Launch Date."
   * The pivot table was filtered based on "Parent Category" and "Years."
   * The row labels were the months of January through December.
