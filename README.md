@@ -62,6 +62,7 @@ To complete the analysis of Outcomes Based on Goals, the following steps were pe
   * The percentages of successful, failed and canceled projects was calculated.
   * A line chart labeled "Outcomes_vs_Goals" was created to show the relationship of the percentage successful, failed or canceled
     on the y-axis to the goal amount on the x-axis.
+  ![image](https://user-images.githubusercontent.com/100876517/160288241-66cf08e7-3bf1-47ed-98e8-38bc18955bfc.png)
   
 
 
