@@ -87,7 +87,7 @@ required filtering "Outcomes" for the proper outcomes of "Successful," "Failed" 
   Most of the activity or 85% occurs within the $0 to $9,999 goal range.  The most successful outcomes were those with a goal of $4,999 or less.
   This goal range of $0 to $4,999 reflected a 73% to 76% success rate.
    
-- What are some limitations of this dataset?
+- What are some limitations of this dataset?   
  
   This dataset does not reflect the reason some plays were successful and others were not even within the same goal range.  A subcategory for 
   type of play may give additional information.  
