@@ -53,14 +53,16 @@ To complete the analysis of Outcomes Based on Goals, the following steps were pe
       
      ![image](https://user-images.githubusercontent.com/100876517/160255319-2509b569-205d-41e1-81c5-58de84d35494.png) 
       
-  * A new pivot table based on the Kickstarter data was placed in the new worksheet, "Theater Outcomes by Launch Date."
-  * The pivot table was filtered based on "Parent Category" and "Years."
-  * The row labels were the months of January through December.
-  * The column labels were "successful," "failed," and "canceled."
+  * The COUNTIFS() function was used to populate the "Number Successful," "Number Failed," and "Number Canceled" columns. 
+    The criteria for the COUNTIFS() function was based on the kickstarter worksheet using the "goal," "outcome" and subcategory
+    of "plays."
+    
+  * The "Total Projects" column was completed by using the SUM() function to add the columns "Number Successful," "Number Failed"
+    and "Number Canceled."
+  * The percentages of successful, failed and canceled projects was calculated.
+  * A line chart labeled "Outcomes_vs_Goals" was created to show the relationship of the percentage successful, failed or canceled
+    on the y-axis to the goal amount on the x-axis.
   
-  * The parent category was filtered for "theater."
-  * The campaign outcomes were sorted in descending order.
- 
 
 
 ### Challenges and Difficulties Encountered
